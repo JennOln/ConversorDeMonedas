@@ -8,7 +8,7 @@ Características:
 
 Tecnologías:
 
-Java 11+
+Java
 
 Gson (para manejar JSON)
 
